@@ -17,6 +17,7 @@ public class Conversor {
         return (fahrenheit - 32) * 5/9;
     }
 
+
     // Método para converter Fahrenheit para Kelvin
     public static double fahrenheitToKelvin(double fahrenheit) {
         return (fahrenheit - 32) * 5/9 + 273.15;
