@@ -20,7 +20,7 @@ public class RegistroPonto {
             }
         }
         return null;
-    }
+    } 
 
     public static void main(String[] args) {
         RegistroPonto registro = new RegistroPonto();
